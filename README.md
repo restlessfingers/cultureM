@@ -99,7 +99,7 @@ If you are interested in this topic, we also recommend reading about [Lamport ti
 ` mvn clean verify `
 
 ### Starting the application
-` java -jar target/bank-service-1.0-SNAPSHOT.jar server src/environments/development.yml `
+` java -jar target/cultureM-1.0-SNAPSHOT.jar server src/environments/development.yml `
 
 ### Examples of use
 #### Create a client
